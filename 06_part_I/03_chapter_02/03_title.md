@@ -94,7 +94,7 @@ Commentary:
 
 **2.3.15** Optionally,include all the names of the families who are credited with, or predominantly responsible for, the creation of the materials.
 
-<p class="dacs-example">Clement, Balinger, Logan, and Stiles family papers</p>
+<p class="dacs-example">Clement, Balinger, Logan, and Stiles families papers</p>
 <p class="dacs-example"><em>Collection title from the Camden County Historical Society.</em></p>
 
 ### Name Segment for Corporate Bodies
