@@ -43,6 +43,9 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2022.0.3.3
+* Updates example in DACS 2.3.15
+  
 ### DACS 2022.0.3.2
 * Fix formatting error caused by extraneous space character.
   
