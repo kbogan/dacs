@@ -32,8 +32,10 @@ The purpose of this element is to document the creation and revision of archival
 
 ### Archivist and Date
 
-**8.1.5** Record the name(s) of the person(s) who created or revised the description, as well as the creation or revision date.
+**8.1.5** Record the name(s) of the person(s) or generative artificial intelligence (AI) system(s) who created or revised the description, as well as the creation or revision date.
 
 <p class="dacs-example">Created 6 May 1985</p>
 
 <p class="dacs-example">Finding aid written by Dan Smith, 1998. Revised by Violet Jones on 18 December 2002.</p>
+
+<p class="dacs-example">Finding aid written by Jan Jones, 2021. In 2025, Sam Johnson used ChatGPT to revise the biographical note and create an inventory for the 2025 accession.</p>
