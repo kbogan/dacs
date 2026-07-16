@@ -43,6 +43,9 @@ The changelog is to be updated with each new subsequent change made to DACS and 
 
 ## DACS Versions
 
+### DACS 2026
+*Pretending to have a major change so I can test this process.
+
 ### DACS 2022.0.4
 * Updates to allow for documentation of AI-generated description.
 
