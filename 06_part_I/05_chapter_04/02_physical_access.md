@@ -1,6 +1,6 @@
 # 4.2 Physical Access (Added Value)
 
-## Purpose and Scope
+## Purpose and Scope is being tested
 
 This element provides information about access restrictions due to any physical characteristics or storage locations that limit, restrict, delay, or otherwise affect access to the materials being described. Such restrictions may include:
 
